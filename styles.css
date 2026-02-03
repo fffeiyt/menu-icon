@@ -5,6 +5,7 @@ header{
         text-align: center;
         background-color: rgb(255, 229, 190);
         padding : 0px 10px 15px 10px
+        font-family:'Lucida Sans';
 }
 
 nav{
@@ -27,4 +28,5 @@ nav a:hover{
     padding: 10px;
     border-radius: 15px 15px 15px 15px;
     box-shadow: 10px 2px 15px -4px rgba(255, 217, 0, 0.712);
+
 }
